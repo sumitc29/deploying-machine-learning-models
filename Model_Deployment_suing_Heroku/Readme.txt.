@@ -1,0 +1,5 @@
+This is an creation of web based application of ML model.
+MOdel is being deployed on the Heroku platform which is used as PAAS
+Heroku will host the model.
+API are created using Flask.
+Frocfile and requirement file is used asextra file for configuration in Heroku
